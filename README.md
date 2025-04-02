@@ -15,8 +15,14 @@
 與線上讀者進行心得互動
 
 
-                                                   首頁內容
+                                                         首頁內容
 ![螢幕擷取畫面 2025-04-02 153225](https://github.com/user-attachments/assets/a4d9f2a8-2cfd-4e7f-a0a3-14db6fa5598d)
 
-                                                  心得分享
+                                                        心得分享
 ![螢幕擷取畫面 2025-04-02 153641](https://github.com/user-attachments/assets/d64c3053-b6de-4cbd-8819-c28ec47b7583)
+
+                                                        文章閱讀
+![螢幕擷取畫面 2025-04-02 153902](https://github.com/user-attachments/assets/6b2d4b6a-61ef-4e73-b31e-ee4a449b2909)
+![螢幕擷取畫面 2025-04-02 153847](https://github.com/user-attachments/assets/8d04737a-4459-4810-b0bb-755866fb55a1)
+
+
