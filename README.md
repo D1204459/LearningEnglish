@@ -32,14 +32,3 @@
                                                       文章閱讀
 ![螢幕擷取畫面 2025-04-02 153847](https://github.com/user-attachments/assets/8d04737a-4459-4810-b0bb-755866fb55a1)
 ![螢幕擷取畫面 2025-04-02 153902](https://github.com/user-attachments/assets/6b2d4b6a-61ef-4e73-b31e-ee4a449b2909)
-
-
-🛠 技術架構
-
-前端技術：Vue.js、CSS
-
-後端技術：Node.js、Express
-
-資料庫 : Node.js
-
-開發環境：WebStorm
