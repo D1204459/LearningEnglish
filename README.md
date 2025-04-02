@@ -15,6 +15,6 @@
 與線上讀者進行心得互動
 
 
-                                  首頁內
+                                                   首頁內容
 ![螢幕擷取畫面 2025-04-02 153225](https://github.com/user-attachments/assets/a4d9f2a8-2cfd-4e7f-a0a3-14db6fa5598d)
 
