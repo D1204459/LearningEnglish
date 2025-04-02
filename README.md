@@ -14,7 +14,7 @@
 
 與線上讀者進行心得互動
 
-![Uploading 螢幕擷取畫面 2025-04-02 153225.png…]()
 
                                   首頁內
+![螢幕擷取畫面 2025-04-02 153225](https://github.com/user-attachments/assets/a4d9f2a8-2cfd-4e7f-a0a3-14db6fa5598d)
 
